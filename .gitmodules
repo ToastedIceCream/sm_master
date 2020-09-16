@@ -2,9 +2,6 @@
 	path = zh-CHT
 	url = git@github.com:ToastedIceCream/sm_sub01.git
 	branch = master
-[submodule "222"]
-	path = 222
-	url = git@github.com:ToastedIceCream/zh-CHT.ScrumGuides.github.io.git
 [submodule "333"]
 	path = 333
 	url = git@github.com:ToastedIceCream/sm_sub01.git
