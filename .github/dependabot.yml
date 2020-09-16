@@ -11,5 +11,5 @@ updates:
       interval: "daily"
       time: "01:51"
     commit-message:
-      prefix: "gitttt auto update"
+      prefix: "g--test "
 
