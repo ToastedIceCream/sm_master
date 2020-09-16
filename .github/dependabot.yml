@@ -10,5 +10,6 @@ updates:
     schedule:
       interval: "daily"
       time: "01:51"
-    prefix: "gitttt auto update"
+    commit-message:
+      prefix: "gitttt auto update"
 
