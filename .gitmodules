@@ -2,6 +2,3 @@
 	path = zh-CHT
 	url = git@github.com:ToastedIceCream/sm_sub01.git
 	branch = master
-[submodule "333"]
-	path = 333
-	url = git@github.com:ToastedIceCream/sm_sub01.git
