@@ -10,3 +10,5 @@ updates:
     schedule:
       interval: "daily"
       time: "01:51"
+    prefix: "gitttt auto update"
+
