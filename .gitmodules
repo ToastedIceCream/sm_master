@@ -1,3 +1,6 @@
 [submodule "111"]
 	path = 111
 	url = https://github.com/ToastedIceCream/zh-CHT.ScrumGuides.github.io.git
+[submodule "222-sm_sub01"]
+	path = 222-sm_sub01
+	url = https://github.com/ToastedIceCream/sm_sub01.git
